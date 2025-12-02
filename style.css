@@ -1,12 +1,13 @@
 /* Lyrha Legal Pages - Stylesheet */
 :root {
-  --primary: #6B4EFF;
-  --primary-dark: #5038CC;
-  --text-primary: #1a1a2e;
-  --text-secondary: #4a4a68;
-  --background: #fafafa;
-  --surface: #ffffff;
-  --border: #e5e5e5;
+  --primary: #265665;
+  --primary-dark: #1B3F4A;
+  --accent: #FFB499;
+  --text-primary: #265665;
+  --text-secondary: #5A5A5A;
+  --background: #F5F1E8;
+  --surface: #FEFBF5;
+  --border: #E0D8C8;
 }
 
 * {
